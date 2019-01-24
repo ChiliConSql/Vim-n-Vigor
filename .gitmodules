@@ -13,3 +13,42 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/editorconfig"]
+	path = bundle/editorconfig
+	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "bundle/instant-markdown"]
+	path = bundle/instant-markdown
+	url = https://github.com/suan/vim-instant-markdown
+[submodule "dadbod"]
+	path = bundle/dadbod
+	url = https://github.com/tpope/vim-dadbod
+[submodule "tmux-navigator"]
+	path = bundle/tmux-navigator
+	url = https://github.com/christoomey/vim-tmux-navigator.git
+[submodule "bundle/colors-lucius"]
+	path = bundle/colors-lucius
+	url = https://github.com/jonathanfilip/vim-lucius.git
+[submodule "bundle/colors-distinguished"]
+	path = bundle/colors-distinguished
+	url = https://github.com/Lokaltog/vim-distinguished
+[submodule "bundle/colors-molokai"]
+	path = bundle/colors-molokai
+	url = git://github.com/tomasr/molokai.git
+[submodule "bundle/colors-pyte"]
+	path = bundle/colors-pyte
+	url = git://github.com/therubymug/vim-pyte.git
+[submodule "bundle/colors-zenburn"]
+	path = bundle/colors-zenburn
+	url = https://github.com/jnurmine/Zenburn.git
+[submodule "bundle/colors-wombat"]
+	path = bundle/colors-wombat
+	url = https://github.com/cschlueter/vim-wombat.git
+[submodule "bundle/colors-wombat256i"]
+	path = bundle/colors-wombat256i
+	url = https://github.com/dsolstad/vim-wombat256i.git
+[submodule "colors-solarized"]
+	path = bundle/colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "bundle/colors-jellybeans"]
+	path = bundle/colors-jellybeans
+	url = https://github.com/nanotech/jellybeans.vim
