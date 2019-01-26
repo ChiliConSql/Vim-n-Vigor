@@ -52,3 +52,18 @@
 [submodule "bundle/colors-jellybeans"]
 	path = bundle/colors-jellybeans
 	url = https://github.com/nanotech/jellybeans.vim
+[submodule "bundle/slime"]
+	path = bundle/slime
+	url = git://github.com/jpalardy/vim-slime.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = git://github.com/ervandew/supertab.git
+[submodule "bundle/unimpaired"]
+	path = bundle/unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "bundle/ultisnips"]
+	path = bundle/ultisnips
+	url = git://github.com/sirver/ultisnips.git
+[submodule "bundle/snippets"]
+	path = bundle/snippets
+	url = https://github.com/honza/vim-snippets.git
