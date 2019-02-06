@@ -67,3 +67,6 @@
 [submodule "bundle/snippets"]
 	path = bundle/snippets
 	url = https://github.com/honza/vim-snippets.git
+[submodule "bundle/syntax-jinja"]
+	path = bundle/syntax-jinja
+	url = https://github.com/Glench/Vim-Jinja2-Syntax.git

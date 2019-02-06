@@ -16,15 +16,18 @@
 
 [20]: https://github.com/tpope/vim-dadbod
 [21]: https://github.com/suan/vim-instant-markdown
+
 [22]: https://github.com/alfredodeza/pytest.vim.git
+
+[29]: https://github.com/Glench/Vim-Jinja2-Syntax.git
+[NOT DONE YET]: # (
 [23]: git://github.com/exu/pgsql.vim.git
 [24]: https://github.com/othree/html5.vim.git
 [25]: https://github.com/posva/vim-vue.git
 [26]: https://github.com/hail2u/vim-css3-syntax.git
 [27]: https://github.com/pangloss/vim-javascript.git
 [28]: https://github.com/elzr/vim-json
-[29]: https://github.com/Glench/Vim-Jinja2-Syntax.git
-
+)
 [30]: https://github.com/davidhalter/jedi-vim.git
 
 [40]: https://github.com/altercation/vim-colors-solarized
@@ -204,7 +207,10 @@ chmod 600 ~/.pgpass
 
 ### Python
 
-TODO
+- [jinja syntax][29]
+```
+git submodule add https://github.com/Glench/Vim-Jinja2-Syntax.git bundle/syntax-jinja
+```
 
 ### Syntax
 
@@ -250,8 +256,11 @@ TODO
 
 
 ### Python
+**TODO**
 - [PyTest][22] -
    run tests from vim
+- [Jedi][30] -
+    made obsolete by [You-Complete-Me][15]
 
 ### Colors
 - [Solarized][40] -
